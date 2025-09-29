@@ -1,0 +1,6 @@
+#Câu 9: Giải thích kết quả tính toán của các biểu thức
+
+Các phép toán thực hiện theo thứ tự ưu tiên của toán tử trong Python: ngoặc (), lũy thừa **, nhân/chia/modulo (*, /, //, %), cộng/trừ (+, -).
+Phép chia / trả về số thực, phép chia nguyên // trả về số nguyên.
+Phép nhân, cộng, trừ thực hiện như toán học thông thường.
+Nếu có số thực trong biểu thức, kết quả sẽ là số thực.
